@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+.App {
+  background-color: #eee;
+  height: 100vh;
+  width: 100vw;
+}
+
+.container {
+  padding-top: 10vh;
+  width: 40%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 200px;
+}
